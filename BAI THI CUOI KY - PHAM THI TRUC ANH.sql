@@ -41,5 +41,5 @@ insert into ThiDau values ('C2','2004/10/30',2,0);
 insert into Penelty values ('P1','01','2004/12/22',2,250000,'V');
 insert into Penelty values ('P2','01','2005/08/19',1,450000,'D');
 insert into Penelty values ('P3','02','2005/10/10',2,250000,'V');
-insert into Penelty values ('P4','02','2005/10/26',1,100000,'V');thidau
+insert into Penelty values ('P4','02','2005/10/26',1,100000,'V');
 insert into Penelty values ('P5','03','2005/10/25',1,450000,'D');
